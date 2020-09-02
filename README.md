@@ -7,3 +7,6 @@ Actividad 1 \
 
 Actividad 2 \
 [Introducción Redes Neuronales](https://nbviewer.jupyter.org/github/juanelocabal/ModelosAvanzadosII/blob/master/Semana2_IntroduccionRedesNeuronales_Actividad.ipynb)
+
+Actividad 3 \
+[Red Neuronal Sencilla](https://nbviewer.jupyter.org/github/juanelocabal/ModelosAvanzadosII/blob/master/Semana3_RedNeuronalSencilla_Actividad.ipynb)
