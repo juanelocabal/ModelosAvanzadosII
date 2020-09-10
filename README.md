@@ -12,4 +12,4 @@ Actividad 3 \
 [Red Neuronal Sencilla](https://nbviewer.jupyter.org/github/juanelocabal/ModelosAvanzadosII/blob/master/Semana3_RedNeuronalSencilla_Actividad.ipynb)
 
 Actividad 4 \
-[Red Neuronal Profunda]
+[Red Neuronal Profunda](https://nbviewer.jupyter.org/github/juanelocabal/ModelosAvanzadosII/blob/master/Semana4_RedNeuronalProfunda_Actividad.ipynb)
