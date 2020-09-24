@@ -15,4 +15,7 @@ Actividad 4 \
 [Red Neuronal Profunda](https://nbviewer.jupyter.org/github/juanelocabal/ModelosAvanzadosII/blob/master/Semana4_RedNeuronalProfunda_Actividad.ipynb)
 
 Actividad 5 \
-[Red Neuronal Multicapa](https://nbviewer.jupyter.org/github/juanelocabal/ModelosAvanzadosII/blob/master/Semana5_RedesProfundas_Keras_Actividad.ipynb) 
+[Red Neuronal Multicapa](https://nbviewer.jupyter.org/github/juanelocabal/ModelosAvanzadosII/blob/master/Semana5_RedesProfundas_Keras_Actividad.ipynb)
+
+Actividad 6 \
+[Redes convolucionales](https://nbviewer.jupyter.org/github/juanelocabal/ModelosAvanzadosII/blob/master/Semana6_RedesConvolucionales_Actividad.ipynb)
