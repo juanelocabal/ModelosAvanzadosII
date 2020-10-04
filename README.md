@@ -21,4 +21,4 @@ Actividad 6 \
 [Redes convolucionales](https://nbviewer.jupyter.org/github/juanelocabal/ModelosAvanzadosII/blob/master/Semana6_RedesConvolucionales_Actividad.ipynb)
 
 Actividad 7 \
-[Entrenamiento por transfrencia](https://nbviewer.jupyter.org/github/juanelocabal/ModelosAvanzadosII/blob/master/Semana7_TransferLearning_Actividad.ipynb)
+[Entrenamiento por transferencia](https://nbviewer.jupyter.org/github/juanelocabal/ModelosAvanzadosII/blob/master/Semana7_TransferLearning_Actividad.ipynb)
