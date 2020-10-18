@@ -22,3 +22,6 @@ Actividad 6 \
 
 Actividad 7 \
 [Entrenamiento por transferencia](https://nbviewer.jupyter.org/github/juanelocabal/ModelosAvanzadosII/blob/master/Semana7_TransferLearning_Actividad.ipynb)
+
+Actividad 8 \
+[Redes Neuronales Recurrentes](https://nbviewer.jupyter.org/github/juanelocabal/ModelosAvanzadosII/blob/master/Semana8_RedNeuronalRecurrente_LSTMBidireccional_Actividad%20%281%29.ipynb)
