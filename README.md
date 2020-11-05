@@ -25,3 +25,6 @@ Actividad 7 \
 
 Actividad 8 \
 [Redes Neuronales Recurrentes](https://nbviewer.jupyter.org/github/juanelocabal/ModelosAvanzadosII/blob/master/Semana8_RedNeuronalRecurrente_LSTMBidireccional_Actividad%20%281%29.ipynb)
+
+Actividad 10 \
+[Intro Sistemas de Recomendación](https://nbviewer.jupyter.org/github/juanelocabal/ModelosAvanzadosII/blob/master/Semana10_IntroSistemasRecomendacion_Actividad_1.ipynb)
