@@ -28,3 +28,6 @@ Actividad 8 \
 
 Actividad 10 \
 [Intro Sistemas de Recomendación](https://nbviewer.jupyter.org/github/juanelocabal/ModelosAvanzadosII/blob/master/Semana10_IntroSistemasRecomendacion_Actividad_1.ipynb)
+
+Actividad 11 \
+[Sistemas de Recomendación basados en contenido](https://nbviewer.jupyter.org/github/juanelocabal/ModelosAvanzadosII/blob/master/Semana11_SistemasRecomendacionPorContenido_Actividad.ipynb)
