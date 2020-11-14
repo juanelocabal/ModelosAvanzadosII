@@ -31,3 +31,6 @@ Actividad 10 \
 
 Actividad 11 \
 [Sistemas de Recomendación basados en contenido](https://nbviewer.jupyter.org/github/juanelocabal/ModelosAvanzadosII/blob/master/Semana11_SistemasRecomendacionPorContenido_Actividad.ipynb)
+
+Actividad 12 \
+[Sistemas de Recomendación de filtrado colaborativo con preferencias implícitas](https://nbviewer.jupyter.org/github/juanelocabal/ModelosAvanzadosII/blob/master/Semana12_PreferenciasImplicitas_Actividad%281%29.ipynb)
