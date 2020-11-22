@@ -34,3 +34,6 @@ Actividad 11 \
 
 Actividad 12 \
 [Sistemas de Recomendación de filtrado colaborativo con preferencias implícitas](https://nbviewer.jupyter.org/github/juanelocabal/ModelosAvanzadosII/blob/master/Semana12_PreferenciasImplicitas_Actividad%281%29.ipynb)
+
+Actividad 13 \
+[Sistemas de Recomendación con Surprise](https://nbviewer.jupyter.org/github/juanelocabal/ModelosAvanzadosII/blob/master/Semana13_FiltradoColaborativo_Surprise_Actividad.ipynb)
