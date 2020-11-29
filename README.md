@@ -37,3 +37,6 @@ Actividad 12 \
 
 Actividad 13 \
 [Sistemas de Recomendación con Surprise](https://nbviewer.jupyter.org/github/juanelocabal/ModelosAvanzadosII/blob/master/Semana13_FiltradoColaborativo_Surprise_Actividad.ipynb)
+
+Actividad 14 \
+[Evaluación de Recomendaciones](https://nbviewer.jupyter.org/github/juanelocabal/ModelosAvanzadosII/blob/master/Semana14_EvaluacionModelos_Actividad.ipynb)
