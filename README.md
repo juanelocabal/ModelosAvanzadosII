@@ -40,3 +40,6 @@ Actividad 13 \
 
 Actividad 14 \
 [Evaluación de Recomendaciones](https://nbviewer.jupyter.org/github/juanelocabal/ModelosAvanzadosII/blob/master/Semana14_EvaluacionModelos_Actividad.ipynb)
+
+Actividad 16 \
+[Aprendizaje por Refuerzo](https://nbviewer.jupyter.org/github/juanelocabal/ModelosAvanzadosII/blob/master/Semana16_AprendizajePorRefuerzo_Actividad.ipynb)
